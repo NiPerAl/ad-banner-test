@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ad Banner</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <a href="https://melb.website/cricbuzz.com/BBL2024/BD/MPU-banner" target="_blank" rel="noopener noreferrer">
+    <img src="https://agbrief.com/wp-content/uploads/2022/03/Cover-696x418.jpg" alt="Bangladesh League Banner">
+  </a>
+</body>
+</html>
